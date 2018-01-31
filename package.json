@@ -15,8 +15,11 @@
     "start": "parcel index.html"
   },
   "devDependencies": {
+    "autoprefixer": "^7.2.5",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
-    "parcel-bundler": "^1.5.1"
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.5.1",
+    "postcss-modules": "^1.1.0"
   }
 }
