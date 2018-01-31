@@ -9,7 +9,8 @@
   "private": false,
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "typography": "^0.16.6"
   },
   "scripts": {
     "start": "parcel index.html"
